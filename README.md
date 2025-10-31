@@ -1,3 +1,5 @@
+Para saber o passo a passo e aprender como fazer o seu Portifólio de Infraestrutura Ágil, acesso o relatório final disponível em .pdf, elaborado em LaTex. 
+
 Este relatório detalha a aula prática de Infraestrutura Ágil, que teve como objetivo simular e monitorar um processo de pipeline de entrega contínua (CI/CD) utilizando o sistema de controle de versões GIT e a ferramenta GitLab CI/CD.
 
 A metodologia consistiu na configuração de um projeto de Loja Virtual, no qual um arquivo de orquestração (.gitlab-ci.yml) foi utilizado para definir estágios de build e notificação, fazendo uso do Docker Hub para gerenciamento de imagens.
