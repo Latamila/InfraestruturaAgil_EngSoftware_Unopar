@@ -1,3 +1,5 @@
+**APAGUE ESTE ARQUIVO DEPOIS DE FAZER O DOWNLOAD PARA SEU PC. SEU PRIMEIRO COMMIT É A CRIAÇÃO DE UM README**
+
 Para saber o passo a passo e aprender como fazer o seu Portifólio de Infraestrutura Ágil, acesse o relatório final disponível em .pdf, elaborado em LaTex. 
 
 ESTRUTURA DO TRABALHO (disponível em PDF)
